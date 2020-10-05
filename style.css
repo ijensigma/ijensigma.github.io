@@ -45,6 +45,7 @@ body{
 	flex-direction: column;
 }
 .flexbox-item{
-	width: 100%;
+	width: auto;
+}
 }
 
